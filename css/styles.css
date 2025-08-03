@@ -419,12 +419,12 @@ img {
   display: flex;
   align-items: baseline;
   justify-content: flex-start;
-  gap: 120px;
   padding: 0 156px;
 }
 
 .footer-logo-wrapper {
   margin: 0;
+  margin-right: 120px;
 }
 
 .footer-logo {
@@ -466,7 +466,7 @@ img {
 
 .social-list {
   display: flex;
-  gap: 16px;
+  gap: 24px;
 }
 
 .social-list-item {
